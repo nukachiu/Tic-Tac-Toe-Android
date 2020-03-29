@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="easy_btn">Easy</string>
+    <string name="hard_btn">Hard</string>
+    <string name="pvp_btn">Player vs Player</string>
+    <string name="ticTacToe_textView">TicTacToe</string>
+</resources>
